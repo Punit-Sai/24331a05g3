@@ -1,0 +1,8 @@
+num1=int(input("enter a number:"))
+print(type(num1))
+num2=float(input("enter another number:"))
+print(type(num2))
+n1=input("enter your name:")
+print(type(n1))
+n2=input("enter a character:")
+print(type(n2))

@@ -1,0 +1,6 @@
+n1=int(input("enter a number:"))
+n2=float(input("enter another number:"))
+sum1=int(n1+n2)
+sum2=(n1+n2)
+print(sum1)
+print(sum2)
